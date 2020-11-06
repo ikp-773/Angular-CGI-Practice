@@ -12,7 +12,7 @@ export class HomeComponent implements OnInit {
   answer: number = null;
   operator: any;
 
-  constructor() { }
+  constructor() { }11
 
   ngOnInit(): void {
   }
